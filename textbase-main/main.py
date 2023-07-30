@@ -5,7 +5,7 @@ import os
 from typing import List
 
 # Set the API key for the Bard model
-models.Bard.api_key = "Ygiha5-2gJKpYvnNSQcTHyfGWAhx-7Ed_oRlTBciv60gduAwGi8CetIUF0FV_BBv71fK1w."
+models.Bard.api_key = "BARD_API key"
 
 # This prompt is used to set the context for the chatbot.
 MENTAL_HEALTH_PROMPT = """You are chatting with Serenity, a mental health support chatbot.
